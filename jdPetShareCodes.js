@@ -7,8 +7,16 @@
 // 同一个京东账号的好友互助码用@符号隔开,不同京东账号之间用&符号或者换行隔开,下面给一个示例
 // 如: 京东账号1的shareCode1@京东账号1的shareCode2&京东账号2的shareCode1@京东账号2的shareCode2
 let PetShareCodes = [
-  '',//账号一的好友shareCode,不同好友中间用@符号隔开
-  '',//账号二的好友shareCode，不同好友中间用@符号隔开
+  //账号一的好友shareCode,不同好友的shareCode中间用@符号隔开
+  'MTEyOTEzNzMzMDAwMDAwMDU2MzUwNjA5@MTE1MzEzNjI2MDAwMDAwMDU2OTk0ODM1@MTE5MzEwNTEzODAwMDAwMDA1NjI4MjE0Nw==',
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
+  'MTE5MzEwNTEzODAwMDAwMDA1NjM0MzkwNQ==@MTE1MzEzNjI2MDAwMDAwMDU2OTk0ODM1@MTE5MzEwNTEzODAwMDAwMDA1NjI4MjE0Nw==',
+  'MTE5MzEwNTEzODAwMDAwMDA1NjM0MzkwNQ==@MTEyOTEzNzMzMDAwMDAwMDU2MzUwNjA5@MTE5MzEwNTEzODAwMDAwMDA1NjI4MjE0Nw==',
+  'MTE5MzEwNTEzODAwMDAwMDA1NjM0MzkwNQ==@MTEyOTEzNzMzMDAwMDAwMDU2MzUwNjA5@MTE1MzEzNjI2MDAwMDAwMDU2OTk0ODM1',
+  'MTE5MzEwNTEzODAwMDAwMDA1NjM0MzkwNQ==@MTEyOTEzNzMzMDAwMDAwMDU2MzUwNjA5@MTE1MzEzNjI2MDAwMDAwMDU2OTk0ODM1',
+  'MTE5MzEwNTEzODAwMDAwMDA1NjM0MzkwNQ==@MTEyOTEzNzMzMDAwMDAwMDU2MzUwNjA5@MTE1MzEzNjI2MDAwMDAwMDU2OTk0ODM1',
+  'MTE5MzEwNTEzODAwMDAwMDA1NjI4MjE0Nw==',
+  'MTE5MzEwNTEzODAwMDAwMDA1NjI4MjE0Nw==',
 ]
 
 // 从日志获取互助码
