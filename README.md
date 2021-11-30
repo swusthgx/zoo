@@ -1,9 +1,9 @@
 ## 重要通知
-### 落日与孤鹜齐飞,秋水共长天一色。
+### 落霞与孤鹜齐飞,秋水共长天一色。
 
-Faker维护仓库，收集全网目前能正常使用的脚本。
+Faker自用仓库，脚本收集者。
 
-#### [点击直达频道](https://t.me/pandaqx)
+#### [交流频道](https://t.me/pandaqx)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shufflewzc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,23 +11,23 @@ Faker维护仓库，收集全网目前能正常使用的脚本。
 
 
 
-【Faker集合仓库】
-ql repo https://ghproxy.com/https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendnotify|ZooFaker_Necklace.js|JDJRValidator_Pure|sign_graphics_validate|ql"
+【青龙】
+ql repo https://ghproxy.com/https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendnotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql"
 
-【圈x订阅地址】
+【圈x】
 
 https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker/main/qx.json
 
-【QX系列教程】
+【QX教程】
 https://www.notion.so/Quantumult-X-cd78c6ab616e4ebf947519b2dd690a0c
 
-【青龙系列教程】
+【青龙教程】
 https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
 
-维护收集不易，各位看官高兴可打赏下~
+觉得项目好的话，各位看官高兴可打赏下~
 
-![image](https://user-images.githubusercontent.com/15306294/125604796-955a078a-0e28-4900-9a1c-6fabdc8feb7d.png)
+![image](https://user-images.githubusercontent.com/15306294/140888333-901cbcdd-e599-44c4-b834-8ea4d1ebc7b0.png)
 
 
 ## Special statement:
@@ -50,16 +50,17 @@ https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 > ***You have used or copied any script made by yourself in this warehouse, it is deemed to have accepted this statement, please read it carefully*** 
 
 
-## Special thanks to:
+## Special thanks to: new scripts actor
 
 
 * [@NobyDa](https://github.com/NobyDa)
-* [@chavyleung](https://github.com/chavyleung)
-* [@liuxiaoyucc](https://github.com/liuxiaoyucc)
-* [@Zero-S1](https://github.com/Zero-S1)
-* [@uniqueque](https://github.com/uniqueque)
-* [@nzw9314](https://github.com/nzw9314)
-* [@Andy Woo](https://t.me/update_help_group)「青龙互助研究院支持」
+* [@Andy Woo](https://t.me/update_help_group)
 * [@Oreo](https://github.com/Oreomeow) 「青龙Faker仓库一键安装配置」
+* [@Aaron-lv](https://github.com/Aaron-lv/sync) 「小小」
+* [@ccwav](https://github.com/ccwav/QLScript2) 「白嫖榜」
+* [@cdle](https://github.com/cdle/carry) 「老年人」
+* [@FKPYW](https://github.com/FKPYW/dongge) 「小埋」
+* [@Smiek2121](https://github.com/smiek2121/scripts) 「呱呱」
+* [@star261](https://github.com/star261/jd) 
 
 # 欢迎Pull Request！

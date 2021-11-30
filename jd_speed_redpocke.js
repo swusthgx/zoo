@@ -27,7 +27,7 @@ const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 let cookiesArr = [], cookie = '', message;
-const linkIdArr = ["9wdf1YTT2L59Vr-meKskLA", "7ya6o83WSbNhrbYJqsMfFA"];
+const linkIdArr = ["7ya6o83WSbNhrbYJqsMfFA"];
 const signLinkId = '9WA12jYGulArzWS7vcrwhw';
 let linkId;
 if ($.isNode()) {
@@ -396,8 +396,9 @@ function cashOut(id,poolBaseId,prizeGroupId,prizeBaseId,) {
 function invite() {
   let t = +new Date()
   let inviterId = [
-    "5V7vHE23qh2EkdBHXRFDuA=="
-  ][Math.floor((Math.random() * 1))]
+    "5V7vHE23qh2EkdBHXRFDuA==",
+    "wXX9SjXOdYMWe5Ru/1+x9A=="
+  ][Math.floor((Math.random() * 2))]
   var headers = {
     'Host': 'api.m.jd.com',
     'accept': 'application/json, text/plain, */*',
